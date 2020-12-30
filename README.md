@@ -1,1 +1,1 @@
-# Solution of assignment 1 Batch 34 Q2
+#Assignment Solutions of Batch 34 Q2 AIC
